@@ -1,2 +1,3 @@
 # Abruptly-Goblins
- automating a game night selector to get the most people through the door
+ automating a game night selector to get the most people through the door with python 3.
+ 
